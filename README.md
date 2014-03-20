@@ -14,7 +14,7 @@ Omit the `-v` option if you don't want the data persisted outside the container.
 
 ##### Current Configuration #####
 
-* Ubuntu 12.10
+* Ubuntu 13.10
 * MongoDB 2.4.9
 
 Copyright &copy; 2014 Joshua Goldie <a href="https://twitter.com/jdgoldie" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @jdgoldie</a>

@@ -3,7 +3,7 @@
 # Copyright(c) 2014 Joshua Goldie
 # Provided under MIT license (http://opensource.org/licenses/MIT)
 #  
-FROM ubuntu:12.10
+FROM ubuntu:13.10
  
 # Update the apt-sources
 RUN apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10 
