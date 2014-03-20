@@ -1,4 +1,3 @@
-docker-mongo
-============
+Dockerfiles for building various containers.
 
-Docker container config for MongoDB. 
+_TODO: add documentation_
