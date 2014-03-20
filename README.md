@@ -2,6 +2,8 @@ Dockerfiles for building various containers.
 
 ### MongoDB ###
 
+[![Docker Repository on Quay.io](https://quay.io/repository/jdgoldie/mongo-db/status "Docker Repository on Quay.io")](https://quay.io/repository/jdgoldie/mongo-db)
+
 Installs MongoDB on Ubuntu 12.10.  A prebuilt image is available at quay.io.
 
     docker pull quay.io/jdgoldie/mongo-db
